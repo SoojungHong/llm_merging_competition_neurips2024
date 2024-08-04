@@ -19,3 +19,6 @@ specialized fine-tuned models can be rapidly merged to combine capabilities and 
 - validation datasets are not meant to benchmark the performance of the merging method.
 - two sets of hidden tasks that will be used to evaluate the submissions from participants
 - hidden test tasks : (1) a set of leaderboard ranking test tasks, and (2) a set of final ranking test tasks.
+
+## Submission 
+https://docs.google.com/forms/d/17TPg7N02o8qvw1czx55Zbh_5Kp7-YStUIOhQDJYc23g/viewform?edit_requested=true
