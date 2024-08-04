@@ -22,3 +22,13 @@ specialized fine-tuned models can be rapidly merged to combine capabilities and 
 
 ## Submission 
 https://docs.google.com/forms/d/17TPg7N02o8qvw1czx55Zbh_5Kp7-YStUIOhQDJYc23g/viewform?edit_requested=true
+
+## Rules (some of important ones)
+- Submissions must take less than 1 hours to merge/fine-tune and evaluate on a single Nvidia A6000 (48 GB) or equivalent resource.
+- Allowed Models
+- Participants in the LLM-Merging competition are allowed to use any publicly available model weights that can be downloaded and fullfils the conditions.
+- Specifically, the model should satisfy the following criteria:
+- The model is publicly available on Hugging Face
+- The model is uploaded before May 31st 2024
+- The model’s parameter size is not larger than 8 billion This flexibility aims to encourage creativity and innovation in model merging techniques.
+- To help participants get - started, we have provided a list of recommended models. (recommended models are in the competition page)
