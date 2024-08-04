@@ -1,16 +1,16 @@
-# llm_merging_competition_neurips2024
+# NeurIPS challenge :  llm_merging_competition_neurips2024
 LLM Merging Competition: Building LLMs Efficiently through Merging
 
-## competition page 
+## Competition page 
 https://llm-merging.github.io/index
 
-## starter kit 
+## Starter kit 
 https://github.com/llm-merging/LLM-Merging
 
-## background of the competition
+## Background of the competition
 specialized fine-tuned models can be rapidly merged to combine capabilities and generalize to new skills.
 
-## challenges description
+## Challenges description
 - a list of expert models that have already been trained on a task-specific dataset. 
 - All of these models will be publicly available on the Hugging Face Model Hub
 - The goal of this competition is to re-use the provided models to create a generalist model that can perform well on a wide variety of skills
